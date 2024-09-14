@@ -1,0 +1,17 @@
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\Day1 - 7daysofcode.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\Day1 - 7daysofcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\Day1 - 7daysofcode.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\Day1 - 7daysofcode.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\Day1 - 7daysofcode.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\bin\Debug\net8.0\Day1 - 7daysofcode.exe
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\bin\Debug\net8.0\Day1 - 7daysofcode.deps.json
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\bin\Debug\net8.0\Day1 - 7daysofcode.runtimeconfig.json
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\bin\Debug\net8.0\Day1 - 7daysofcode.dll
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\bin\Debug\net8.0\Day1 - 7daysofcode.pdb
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\bin\Debug\net8.0\RestSharp.dll
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\Day1 - 7.025E8D44.Up2Date
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\Day1 - 7daysofcode.dll
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\refint\Day1 - 7daysofcode.dll
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\Day1 - 7daysofcode.pdb
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\Day1 - 7daysofcode.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\Projetos\Day1 - 7daysofcode\obj\Debug\net8.0\ref\Day1 - 7daysofcode.dll
